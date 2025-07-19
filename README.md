@@ -95,12 +95,6 @@ styles/             # Global styles
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). You can change this to your preferred license.
-
----
-
 ## 📬 Contact
 
 For questions or support, open an issue or contact [hemanth9886609@gmail.com]
